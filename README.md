@@ -20,4 +20,4 @@ Download Following Dataset and use five text(use randomly generated 5 numbers an
 8) Match the results of RNN (step 7) with the step 5 and also with step
 
 Share the output of the analysis.
-Submit your assignment here https://forms.gle/ta88MoyAC8Fmsd4n7
+
